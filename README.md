@@ -1,11 +1,7 @@
 **About me**
 <br><br>
 
-🙎🏻‍♂️ I am German Mardones, a Frontend Developer (specializing in Vue Applications). I have a bachelor's degree in computer engineering.
-
-💻 I started working as a computer support while I was studying, once I finished my studies I started working as a full stack developer and currently I have 3 years as a frontend developer.
-
-Some things about me are: I like craft beer 🍺 and I have participated in the preparation for personal use, I enjoy nature 🌳 and peace 🧘🏻‍♂️, I am a big fan of video games 🎮 and cycling 🚴🏻 although I don't practice it as much as before.
+¡Hola! Soy German Mardones, Docente y Desarrollador Frontend con especialización en aplicaciones Vue.js. Con una sólida base en ingeniería informática en la que he trabajado durante 7 años, 4 de ellos como programador web especializándome en el Frontend. Más allá de la programación, soy tutor de Molly y Paris, dos gatitas adoptadas que se han integrado a mi familia 🐱🐱, disfruto de la naturaleza y la tranquilidad 🌳🧘‍♂️, los videojuegos 🎮, el ciclismo 🚴‍♂️, y mi última pasión es un auto-camper 🚐..
 <br><br>
 
 **Certifications** (for now…)
@@ -24,6 +20,10 @@ JavaScript
 
 [ECMA6+](https://platzi.com/p/GermanSimonG/curso/1815-ecmascript-6/diploma/detalle/)
 
+Vue.js
+
+[Curso de Vue.js: Introducción y Fundamentos](https://platzi.com/p/GermanSimonG/curso/2819-vuejs/diploma/detalle/)
+
 React
 
 [Curso de Introducción a React.js](https://platzi.com/p/avanza2022/course/2444-react/diploma/detalle/)
@@ -35,3 +35,9 @@ Other
 [Escuela de Blockchain y Criptomonedas](https://platzi.com/p/avanza2022/ruta/39-blockchain-criptomonedas/diploma/detalle/)
 
 [Curso Profesional de Git y GitHub](https://platzi.com/p/GermanSimonG/course/1557-git-github/diploma/detalle/)
+
+[Curso de Bases de Datos con MySQL y MariaDB](https://platzi.com/p/GermanSimonG/curso/4203-mysql-mariadb/diploma/detalle/)
+
+[Curso de Ética y Manejo de Datos para Data Science e Inteligencia Artificial](https://platzi.com/p/GermanSimonG/curso/3156-etica-ia/diploma/detalle/)
+
+[Curso de Fundamentos de IA para Data y Machine Learning](https://platzi.com/p/GermanSimonG/curso/6935-ia-data-ml/diploma/detalle/)
