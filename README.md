@@ -1,7 +1,8 @@
 **About me**
 <br><br>
 
-¡Hola! Soy German Mardones, Docente y Desarrollador Frontend con especialización en aplicaciones Vue.js. Con una sólida base en ingeniería informática en la que he trabajado durante 7 años, 4 de ellos como programador web especializándome en el Frontend. Más allá de la programación, soy tutor de Molly y Paris, dos gatitas adoptadas que se han integrado a mi familia 🐱🐱, disfruto de la naturaleza y la tranquilidad 🌳🧘‍♂️, los videojuegos 🎮, el ciclismo 🚴‍♂️, y mi última pasión es un auto-camper 🚐..
+Hello! I'm German Mardones, a Teacher and Frontend Developer specialized in Vue.js applications. With a solid foundation in computer engineering where I've worked for 7 years, 4 of them as a web programmer specializing in Frontend. Beyond programming, I am the guardian of Molly and Paris, two adopted kittens that have become part of my family 🐱🐱, I enjoy nature and tranquility 🌳🧘‍♂️, video games 🎮, cycling 🚴‍♂ and my latest passion is a camper van 🚐.
+
 <br><br>
 
 **Certifications** (for now…)
